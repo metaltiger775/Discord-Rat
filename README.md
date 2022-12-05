@@ -119,6 +119,7 @@ Feel free to check [issues page](https://github.com/metaltiger775/Discord-Rat/is
 
 Give a ⭐️ if this project helped you!
 
+[![Buymeacoffee](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.buymeacoffee.com/metaltiger775)
 
 ## 📝 License
 
