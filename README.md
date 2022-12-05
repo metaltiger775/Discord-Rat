@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
-python discordrat.py
+python discord_rat.py
 ```
 
 ## Author
