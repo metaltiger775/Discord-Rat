@@ -101,6 +101,7 @@ pip install -r requirements.txt
 ```sh
 python discordrat.py
 ```
+P.S: You can also compile it as a .exe file with pyinstaller or py2exe
 
 ## Author
 
