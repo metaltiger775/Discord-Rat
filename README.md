@@ -1,7 +1,7 @@
 # Welcome to Discord Rat 👋
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 
-> A simple discord bot RAT (Remote Administrator Tool) I made using python 3 because I have nothing else to do.
+> A simple discord bot RAT (Remote Administrator Tool) I made using python 3 because I have nothing else to do. (For windows)
 
 ### 🏠 [Homepage](https://www.github.com/metaltiger775/Discord-Rat)
 
