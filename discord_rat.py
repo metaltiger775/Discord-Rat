@@ -209,4 +209,4 @@ async def on_message(message):
         await message.channel.send("``` !help - Get a list of commands ```")
         await message.channel.send("``` !quit - Quit the program ```")
 
-bbot.run(token)
+bot.run(token)
